@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+wheel
+scikit-learn
+pillow
+seaborn
+jupyter
+notebook
+scipy
