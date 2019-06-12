@@ -8,3 +8,5 @@ seaborn
 jupyter
 notebook
 scipy
+tensorflow
+keras
